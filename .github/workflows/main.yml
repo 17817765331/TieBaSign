@@ -1,6 +1,6 @@
 name: 'Baidu Tieba Auto Sign'
 
-from:
+on:
   push:
      branches:
       - main
