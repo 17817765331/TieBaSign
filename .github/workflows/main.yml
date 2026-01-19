@@ -1,8 +1,8 @@
 name: 'Baidu Tieba Auto Sign'
 
-于:
+from:
   push:
-    分支:
+     branches:
       - main
   schedule:
     - cron: '5 16,22 * * *'
